@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icons/add-file.png</file>
+        <file>icons/check consistency.png</file>
+        <file>icons/compress.png</file>
+        <file>icons/cons.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/copy2.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/cut2.png</file>
+        <file>icons/dark light mode.png</file>
+        <file>icons/decompress.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/errors.png</file>
+        <file>icons/fix.png</file>
+        <file>icons/floppy-disk.png</file>
+        <file>icons/font color.png</file>
+        <file>icons/font style 2.png</file>
+        <file>icons/font style.png</file>
+        <file>icons/icon.png</file>
+        <file>icons/minify.png</file>
+        <file>icons/open.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/saveas.png</file>
+        <file>icons/to json.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/xml.png</file>
+    </qresource>
+</RCC>
